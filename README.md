@@ -14,11 +14,13 @@ Key Features:
 
 ## Experiment Description
 
-**Title:** Exploring the Visual Field Restriction in the Recognition of Basic Facial Expressions: A Combined Eye Tracking and Gaze Contingency Study
+**Title:** Visual Field Restriction in the Recognition of Basic Facial Expressions: A Combined Eye Tracking and Gaze Contingency Study
 
 **Authors:** M. B. Urtado, R. D. Rodrigues, S. S. Fukusima
 
-**Publication Status:** To be published
+**Publication Link:** https://www.mdpi.com/2076-328X/14/5/355 <br>
+
+- Urtado MB, Rodrigues RD, Fukusima SS. **Visual Field Restriction in the Recognition of Basic Facial Expressions: A Combined Eye Tracking and Gaze Contingency Study**. Behavioral Sciences. 2024;14: 355. doi:[10.3390/bs14050355](https://doi.org/10.3390/bs14050355)
 
 In this experiment, participants were presented with 30 facial image stimuli under three visual field restriction conditions: NVR (No Visual Restriction), PFFV (Parafoveal and Foveal Vision), and FV (Foveal Vision).<br>
 In the NVR condition, stimuli were presented without any restriction, while in the PFFV and FV conditions, the visual field was limited to 5° and 2° of the visual angle, respectively.<br>
